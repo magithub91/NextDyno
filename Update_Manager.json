@@ -1,0 +1,16 @@
+{
+  "version": "2.0.0",
+  "downloadURL": "https://dl.yasdl.com/2026/Software/Microsoft.Office.Pro.Plus.2021-2024.VL.v2607.Build.20228.20124.x64.Final_YasDL.com.rar?aa2bb",
+  "About": "رفع باگ‌های بخش لایسنس، بهبود عملکرد UI، اضافه شدن refresh غیرهمزمان و بهینه‌سازی مدیریت activation.",
+  "Date": "2026-08-03 - 23:15:23",
+  "System": {
+    "CPU": "Core i5 13th or higher",
+    "GPU": "Nvidia 4090 or equivalent",
+    "RAM": "16 GB DDR3 or higher",
+    "Storage": "2 GB free space"
+  },
+  "OS": [
+    "Windows 11",
+    "Windows 10"
+  ]
+}
