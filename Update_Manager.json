@@ -1,10 +1,24 @@
 {
   "version": "1.0.1",
   "downloadURL": "https://abrehamrahi.ir/o/temp/7PSlkCfA/",
-  "Date": "1405-05-13 - 22:18:00",
-  "Features": "اضافه شدن سیستم آپدیت خودکار غیرهمزمان\nنمایش مشخصات سخت‌افزاری مورد نیاز برنامه",
-  "Improvements": "بهبود عملکرد رابط کاربری (UI) در لودینگ‌ها\nبهینه‌سازی مصرف حافظه موقت رم",
-  "BugFixes": "رفع باگ‌های بخش لایسنس و اکتیویشن\nاصلاح نمایش تاریخ‌های شمسی در مانیتورینگ",
+  "Date": "2026-08-05 18:12:30",
+  "Features": [
+            "Added support for placing a logo on the dashboard",
+            "Added support for configuring software headers",
+            "Added license and software edition management",
+            "Added in-app software update capability",
+            "Added support for changing dashboard and gauge background themes"
+        ],
+  "Improvements": [
+            "Redesigned the UI with a modern visual style",
+            "Implemented GPU-accelerated dashboard image rendering",
+            "Introduced a new and modern dashboard design"
+        ],
+  "BugFixes": [
+            "Fixed crash on startup",
+            "Improved serial communication speed Improved sampling rate and dashboard smoothness",
+            "Adjusted page sizes to match the system display resolution"
+        ],
   "System": {
     "CPU": "Core i5 13th or higher",
     "GPU": "Nvidia 4090 or equivalent",
